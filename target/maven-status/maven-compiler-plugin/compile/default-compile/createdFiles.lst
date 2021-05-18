@@ -1,0 +1,11 @@
+br\senai\sc\interfaces\iFila.class
+br\senai\sc\main\ManiFilaVetor.class
+br\senai\sc\classes\NoLista.class
+br\senai\sc\interfaces\iLista.class
+br\senai\sc\classes\ListaEncadeada.class
+br\senai\sc\classes\FilaVetor.class
+br\senai\sc\classes\PilhaVetor.class
+br\senai\sc\interfaces\iPilha.class
+br\senai\sc\main\MainListaComArray.class
+br\senai\sc\classes\ListaComArray.class
+br\senai\sc\main\MainListaEncadeada.class
