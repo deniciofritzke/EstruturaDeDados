@@ -6,7 +6,6 @@ br\senai\sc\torresdehanoi\TorreArray.class
 br\senai\sc\torresdehanoi\TorresDeHanoi.class
 br\senai\sc\denicio\classes\PilhaVetor.class
 br\senai\sc\torresdehanoi\TorresDeHanoiJogo.class
-br\senai\sc\denicio\classes\HanoiTipoPilha.class
 br\senai\sc\denicio\main\MainFilaVetor.class
 br\senai\sc\denicio\classes\PilhaLista.class
 br\senai\sc\denicio\main\MainListaEncadeada.class
@@ -16,11 +15,12 @@ br\senai\sc\mateus\Pilha.class
 br\senai\sc\denicio\interfaces\iFila.class
 br\senai\sc\mateus\NoLista.class
 br\senai\sc\torresdehanoi\TorresDeHanoiArray.class
-br\senai\sc\denicio\interfaces\TorreDeHanoi.class
 br\senai\sc\denicio\interfaces\iLista.class
 br\senai\sc\mateus\PilhaArray.class
 br\senai\sc\denicio\classes\ListaComArray.class
+br\senai\sc\torresdehanoi\TorreLinked.class
 br\senai\sc\denicio\classes\FilaLista.class
 br\senai\sc\mateus\PilhaLinked.class
+br\senai\sc\torresdehanoi\TorresDeHanoiLinked.class
 br\senai\sc\denicio\main\MainListaComArray.class
 br\senai\sc\denicio\interfaces\iPilha.class
