@@ -3,23 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.senai.sc.torredehanoi;
+package br.senai.sc.torresdehanoi;
 
-import br.senai.sc.mateus.PilhaArray;
+import br.senai.sc.mateus.PilhaLinked;
 
 /**
  *
  * @author Denicio
  */
-public class TorreArray {
-    private final PilhaArray<Integer> t;
+public class TorreLinked {
+    private final PilhaLinked<Integer> t;
     private int tamanho;
     
-    public TorreArray() {
-        t = new PilhaArray<>(5);
+    public TorreLinked() {
+        t = new PilhaLinked<>();
         tamanho = 0;
     }
-    
     public void push(int disco) throws Exception {
         t.push(disco);
         tamanho++;
