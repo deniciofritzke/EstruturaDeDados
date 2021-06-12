@@ -69,4 +69,14 @@ public class ArvoreComArray<T> {
     public boolean cheia() {
         return array[2*h+2] != null;
     }
+    
+    public boolean pertence(T info) {
+        boolean result = false;
+        int z = 0;
+        while (z <= 2*h+2 && !result) {
+            result = array[z].equals(info);
+            z++;
+        }
+        return result;
+    }
 }
